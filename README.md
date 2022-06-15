@@ -1,4 +1,4 @@
-<h1 align="center">Next.js Landing Page Sample 👋</h1>
+<h1 align="center">Next.js 랜딩페이지 템플릿 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -6,16 +6,11 @@
   </a>
 </p>
 
-> The Next.js landing page sample
+> 클라우드타입에서 제공하는 Next.js 랜딩페이지 템플릿입니다.
 
-
-## Author
-
-👤 **ggingmin**
-
-* Website: https://www.ggingmin.com/
-* Github: [@ggingmin](https://github.com/ggingmin)
-* LinkedIn: [@ggingmin](https://linkedin.com/in/ggingmin)
+* Website: [클라우드타입 홈페이지](https://cloudtype.io/)
+* Discord: [디스코드](https://discord.com/invite/dxQ2JBKHaF)
+* Medium: [Medium](https://cloudtype.io/)
 
 ## OSS License
 * **next.js**
